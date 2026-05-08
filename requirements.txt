@@ -3,3 +3,6 @@ uvicorn
 ultralytics
 python-multipart
 Pillow
+opencv-python
+numpy
+torch
